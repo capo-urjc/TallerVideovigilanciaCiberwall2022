@@ -1,6 +1,6 @@
 # Taller Videovigilancia Cib3rWall 2022
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/capo-urjc/TallerVideovigilanciaCiberwall2022/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/capo-urjc/TallerVideovigilanciaCiberwall2022/HEAD?urlpath=https%3A%2F%2Fgithub.com%2Fcapo-urjc%2FTallerVideovigilanciaCiberwall2022%2Fblob%2Fmain%2Fshow_video_on_binder.ipynb)
 
 Contenidos del taller de aplicación de [YOLOv5](https://github.com/ultralytics/yolov5) a detección de armas y objetos de interés.
 
